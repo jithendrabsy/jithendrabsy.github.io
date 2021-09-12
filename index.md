@@ -7,7 +7,7 @@ Hello there! Welcome to my homepage.
 My name is Jithendra. I'm a Data Scientist at  [NeenOpal](https://www.neenopal.com/){:target="_blank"}, a go-to strategic partner for business ranging from budding startups to vertically integrated large organizations.
 
 
-I maintain a list of my work under the [Work](https://jithendrabsy.github.io/work) tab. I write (although quite less frequently) about topics in machine learning and data science [here](https://jithendrabsy.github.io/fastblog). I also maintain a list of some of [my favorites](https://jithendrabsy.github.io/favorites). Feel free to read a bit more [about me](https://jithendrabsy.github.io/about).
+I maintain a list of my work under the [Work](https://jithendrabsy.github.io/work) tab. I write (although quite less frequently) about topics in machine learning and data science [here](https://jithendrabsy.github.io/blog.html). I also maintain a list of some of [my favorites](https://jithendrabsy.github.io/favorites). Feel free to read a bit more [about me](https://jithendrabsy.github.io/about).
 
 
 When I’m not working or attending meetings, I can usually be found banging my head to metal music, watching slasher/zombie films, and writing reviews for music albums/bands on [Cursed Collection](https://cursedcollection.github.io/){:target="_blank"}.
