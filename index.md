@@ -14,7 +14,7 @@ When I’m not working or attending meetings, I can usually be found banging my 
 
 
 Feel free to drop an email to **jithendra1230** at **gmail** or DM me on [twitter](https://twitter.com/jithendrabsy) if you wish to contact me.
-I'm also on [Linkedin](https://www.linkedin.com/in/jithendrabsy/) if you are into that sort of thing. Most of my technical work is on <ins>[GitHub](https://github.com/jithendrabsy)</ins>.
+I'm also on [Linkedin](https://www.linkedin.com/in/jithendrabsy/) if you are into that sort of thing. Most of my technical work is on [GitHub](https://github.com/jithendrabsy).
 
 
 ### Updates
